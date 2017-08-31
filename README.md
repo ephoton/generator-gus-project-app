@@ -1,0 +1,1 @@
+# generator-gus-project-app
